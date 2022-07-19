@@ -1,4 +1,4 @@
-### The best opportunity is now!
+### The best time to act is now!
 
 <!--
 **MikeFilimonov/MikeFilimonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
