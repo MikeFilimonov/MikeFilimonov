@@ -9,7 +9,7 @@ I tried a lot in my career: from a couple of years as c++ dev and consequent exp
 *   🌍  I'm based in Israel
 *   🖥️  See my portfolio at [tbd](http://coming.soom)
 *   ✉️  You can contact me at [m0552950361@gmail.com](mailto:m0552950361@gmail.com)
-*   🚀  I'm currently working on [RunClub](http://coming.soon)
+*   🚀  I'm currently working on [RunClub](https:www.one4.run)
 *   🧠  I'm learning Golang, Rust and Postgres
 *   🤝  I'm open to collaborating on any project that could make humanity prosper
 *   ⚡  trillingual (En, He, Ru) fan of financial freedom, quantum computing, calithenics, marathons and craft-beer
